@@ -2,7 +2,7 @@
 <p align="center">  
 ⚒️ I'm currently a second-year Computing Science and Artificial Intelligence Student at the University of Alberta ⚒️  
 <br>  
-🖥️ Passionate about Software Algorithm Design, Artificial Intelligence and Data Science 🖥️
+🖥️ Passionate about Algorithm Design, Machine Learning and Data Science 🖥️
 </p>  
 <div align="center">
 <picture>
