@@ -240,13 +240,6 @@
        height="40"/>
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" 
-       alt="SciKit Learn" 
-       width="40" 
-       height="40"/>
-</a>
-
 
 
 <h3>My Projects</h3>
