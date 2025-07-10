@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Affan</h1>  
 <p align="center">  
-⚒️ I'm currently a second-year Computing Science and Artificial Intelligence Student at the University of Alberta ⚒️  
+⚒️ I'm currently a third-year Computing Science and Artificial Intelligence Student at the University of Alberta ⚒️  
 <br>  
-🖥️ Passionate about Algorithm Design, Machine Learning and Data Science 🖥️
+🖥️ Passionate about Data Science, Machine Learning, and Algorithm Design  🖥️
 </p>  
 <div align="center">
 <picture>
