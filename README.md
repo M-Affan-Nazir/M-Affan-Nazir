@@ -268,6 +268,27 @@
         </ul>
       </td>
     </tr>
+  <tr> 
+  <td><b>Edmonton Traffic Statistics (ML & Statistical Inference)</b></td> 
+  
+  <td> 
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+    <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> 
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> 
+  </td> 
+  <td> 
+    <ul> 
+      <li>End-to-end pipeline: EDA → cleaning → feature engineering → statistical inference → ML prototyping.</li> 
+      <li>Merged collisions × traffic volume × weather into <code>data/processed/merged_features.csv</code>.</li> 
+      <li>Ran Shapiro–Wilk, Levene, Kruskal–Wallis, and Wilcoxon tests with effect-size summaries.</li> 
+      <li>Prototyped GLMs (incl. Negative Binomial) for yearly collision counts.</li> 
+      <li>Reproducible notebooks and a final PDF report; raw data sourced via Edmonton Open Data links.</li> 
+    </ul> 
+  </td> 
+</tr>
     <tr>
       <td><b>Transformer Encoder</b></td>
       <td>
