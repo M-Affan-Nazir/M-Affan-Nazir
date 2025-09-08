@@ -282,7 +282,6 @@
   <td> 
     <ul> 
       <li>End-to-end pipeline: EDA → cleaning → feature engineering → statistical inference → ML prototyping.</li> 
-      <li>Merged collisions × traffic volume × weather into <code>data/processed/merged_features.csv</code>.</li> 
       <li>Ran Shapiro–Wilk, Levene, Kruskal–Wallis, and Wilcoxon tests with effect-size summaries.</li> 
       <li>Prototyped GLMs (incl. Negative Binomial) for yearly collision counts.</li> 
       <li>Reproducible notebooks and a final PDF report; raw data sourced via Edmonton Open Data links.</li> 
