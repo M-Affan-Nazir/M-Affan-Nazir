@@ -21,11 +21,9 @@
 </picture>
 </div>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages:
 
 <p align = "left"> 
-
-  
 <a href = ""
    target = "_blank"> 
   <img src = "https://upload.wikimedia.org/wikipedia/ku/3/30/Java_programming_language_logo.svg"
@@ -61,8 +59,87 @@
        width = "40" 
        height = "40"/> 
 </a> 
+<a href = ""
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/250px-Julia_Programming_Language_Logo.svg.png"
+       alt = "Julia" 
+       width = "40" 
+       height = "40"/> 
+</a> 
+<a href = ""
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/250px-VB.NET_Logo.svg.png"
+       alt = "VB" 
+       width = "40" 
+       height = "40"/> 
+</a> 
+<a href = "https://www.mysql.com" 
+   target = "_blank"> 
+  <img src = "https://d33wubrfki0l68.cloudfront.net/dcb20c9a5cdd57de99030108ec988a52b190b168/a9e1e/images/icon-pack/mysql.svg"
+       alt = "mysql"
+       width = "40"
+       height = "40"/>
+</a>
+<a href = ""
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png"
+       alt = "HTML" 
+       width = "40" 
+       height = "40"/> 
+</a> 
+<br/>
 
-
+## 🔧 Tools & Libraries:
+<a href = "https://en.wikipedia.org/wiki/Node.js"
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/250px-Android_Studio_icon_%282023%29.svg.png"
+       alt = "Android Studio"
+       width = "60" 
+       height = "40"/>
+</a>
+<a href = "https://en.wikipedia.org/wiki/Node.js"
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/240px-Node.js_logo.svg.png"
+       alt = "Node.js"
+       width = "60" 
+       height = "40"/> 
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" 
+       alt="TensorFlow" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" 
+       alt="PyTorch" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/250px-React-icon.svg.png" 
+       alt="react" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" 
+       alt="Firebase" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" 
+       alt="TensorFlow" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" 
+       alt="TensorFlow" 
+       width="40" 
+       height="40"/>
+</a>
 
 <h3>My Projects</h3>
 <table>
