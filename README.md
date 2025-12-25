@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Affan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>  
 <p align="center">  
+<h4 align="center">
 🖥️ I'm a third-year Computing Science and Artificial Intelligence Student at the University of Alberta 🖥️
+</h4>
 
 </p> 
 <div align="center">
