@@ -62,10 +62,10 @@
 </a> 
 <a href = ""
    target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/250px-Julia_Programming_Language_Logo.svg.png"
-       alt = "Julia" 
-       width = "40" 
-       height = "40"/> 
+  <span style="background:#fff; padding:4px; border-radius:6px; display:inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/250px-Julia_Programming_Language_Logo.svg.png"
+         alt="Julia" width="40" height="40"/>
+  </span>
 </a> 
 <a href = ""
    target = "_blank"> 
