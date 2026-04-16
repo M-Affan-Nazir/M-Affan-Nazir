@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td><a href="https://www.java.com/" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" /></a></td>
-    <td><a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /></a></td>
     <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" /></a></td>
     <td><a href="https://isocpp.org/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" /></a></td>
     <td><a href="https://julialang.org/" title="Julia"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" /></a></td>
+    <td><a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /></a></td>
     <td><a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" title="VB.NET"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/250px-VB.NET_Logo.svg.png" alt="VB.NET" width="48" height="48" /></a></td>
     <td><a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" /></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" /></a></td>
@@ -43,9 +43,9 @@
 <table>
   <tr>
     <td><a href="https://developer.android.com/studio" title="Android Studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" /></a></td>
-    <td><a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" /></a></td>
     <td><a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" /></a></td>
     <td><a href="https://pytorch.org/" title="PyTorch"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" /></a></td>
+    <td><a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" /></a></td>
     <td><a href="https://react.dev/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" /></a></td>
     <td><a href="https://firebase.google.com/" title="Firebase"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" /></a></td>
     <td><a href="https://jupyter.org/" title="Jupyter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" /></a></td>
