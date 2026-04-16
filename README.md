@@ -48,14 +48,14 @@
 </a>
 <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"
    target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/250px-The_C_Programming_Language_logo.svg.png"
        alt = "C" 
        width = "40" 
        height = "40"/> 
 </a> 
 <a href = "https://en.wikipedia.org/wiki/C%2B%2B"
    target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2560px-ISO_C%2B%2B_Logo.svg.png"
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png"
        alt = "C++" 
        width = "40" 
        height = "40"/> 
@@ -100,7 +100,7 @@
 </a>
 <a href = "https://en.wikipedia.org/wiki/Node.js"
    target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/240px-Node.js_logo.svg.png"
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/500px-Node.js_logo.svg.png"
        alt = "Node.js"
        width = "60" 
        height = "40"/> 
