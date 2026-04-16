@@ -24,123 +24,64 @@
 
 ## 🚀 Languages:
 
-<p align = "left"> 
-<a href = ""
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/ku/3/30/Java_programming_language_logo.svg"
-       alt = "Java"
-       width = "40" 
-       height = "40"/> 
-</a>
-<a href = "https://www.python.org"
-   target = "_blank"> 
-  <img src = "https://i.ibb.co/vsnmYkh/python.png"
-       alt = "python"
-       width = "40" 
-       height = "40"/> 
-</a>
-<a href = "https://en.wikipedia.org/wiki/JavaScript" 
-   target = "_blank"> 
-  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-       alt = "JavaScript"
-       width = "40"
-       height = "40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/C_(programming_language)"
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/250px-The_C_Programming_Language_logo.svg.png"
-       alt = "C" 
-       width = "40" 
-       height = "40"/> 
-</a> 
-<a href = "https://en.wikipedia.org/wiki/C%2B%2B"
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png"
-       alt = "C++" 
-       width = "40" 
-       height = "40"/> 
-</a> 
-<a href = ""
-   target = "_blank"> 
-  <span style="background:#fff; padding:4px; border-radius:6px; display:inline-block;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkyFOO9EDHT_JRIVtk8DzF7ik0cx--MCtjA&s"
-         alt="Julia" width="40" height="40" style="background:white; padding:4px; border-radius:6px;" />
-  </span>
-</a> 
-<a href = ""
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/250px-VB.NET_Logo.svg.png"
-       alt = "VB" 
-       width = "40" 
-       height = "40"/> 
-</a> 
-<a href = "https://www.mysql.com" 
-   target = "_blank"> 
-  <img src = "https://d33wubrfki0l68.cloudfront.net/dcb20c9a5cdd57de99030108ec988a52b190b168/a9e1e/images/icon-pack/mysql.svg"
-       alt = "mysql"
-       width = "40"
-       height = "40"/>
-</a>
-<a href = ""
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png"
-       alt = "HTML" 
-       width = "40" 
-       height = "40"/> 
-</a> 
-<br/>
+<p align="left">
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+  </a>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" />
+  </a>
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
+  </a>
+  <a href="https://julialang.org/" title="Julia">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" title="VB.NET">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/250px-VB.NET_Logo.svg.png" alt="VB.NET" width="48" height="48" />
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+  </a>
+</p>
 
 ## 🔧 Tools & Libraries:
-<a href = "https://en.wikipedia.org/wiki/Node.js"
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/250px-Android_Studio_icon_%282023%29.svg.png"
-       alt = "Android Studio"
-       width = "60" 
-       height = "40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/Node.js"
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/500px-Node.js_logo.svg.png"
-       alt = "Node.js"
-       width = "60" 
-       height = "40"/> 
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" 
-       alt="TensorFlow" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" 
-       alt="PyTorch" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/250px-React-icon.svg.png" 
-       alt="react" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" 
-       alt="Firebase" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" 
-       alt="TensorFlow" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" 
-       alt="TensorFlow" 
-       width="40" 
-       height="40"/>
-</a>
+
+<p align="left">
+  <a href="https://developer.android.com/studio" title="Android Studio">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" />
+  </a>
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
+  </a>
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" />
+  </a>
+  <a href="https://react.dev/" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
+  </a>
+  <a href="https://firebase.google.com/" title="Firebase">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" />
+  </a>
+  <a href="https://jupyter.org/" title="Jupyter">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
+  </a>
+  <a href="https://scikit-learn.org/" title="Scikit-Learn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="48" height="48" />
+  </a>
+</p>
 
 <h3>My Projects</h3>
 <table>
@@ -306,5 +247,3 @@
     </tr>
   </tbody>
 </table>
-
-</a>
